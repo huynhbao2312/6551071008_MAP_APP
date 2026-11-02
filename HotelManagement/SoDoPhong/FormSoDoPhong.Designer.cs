@@ -338,7 +338,7 @@
             // 
             // pictureBox1
             // 
-            pictureBox1.Image = Properties.Resources.Address;
+            pictureBox1.Image = Properties.Resources.search;
             pictureBox1.Location = new Point(522, 16);
             pictureBox1.Margin = new Padding(3, 4, 3, 4);
             pictureBox1.Name = "pictureBox1";

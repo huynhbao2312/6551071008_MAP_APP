@@ -105,7 +105,7 @@
             // pictureBox2
             // 
             pictureBox2.BackgroundImageLayout = ImageLayout.None;
-            pictureBox2.Image = Properties.Resources.people;
+            pictureBox2.Image = Properties.Resources.user;
             pictureBox2.Location = new Point(101, 48);
             pictureBox2.Margin = new Padding(3, 4, 3, 4);
             pictureBox2.Name = "pictureBox2";

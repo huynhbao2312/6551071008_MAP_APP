@@ -1,4 +1,6 @@
-﻿using HotelManagement.Models;
+﻿using ClosedXML.Excel;
+using HotelManagement.ChiTietTienNghi;
+using HotelManagement.Models;
 using Microsoft.EntityFrameworkCore;
 
 namespace HotelManagement.LoaiPhong
@@ -6,25 +8,83 @@ namespace HotelManagement.LoaiPhong
     public partial class FormDanhSachLoaiPhong : Form
     {
         private readonly Image _iconGiuong = Properties.Resources.Giuong;
-        private readonly Image _iconDetails = Properties.Resources.details;
+        private readonly Image _iconTienNghi = Properties.Resources.details;
         private readonly Image _iconSua = Properties.Resources.edit;
         private readonly Image _iconXoa = Properties.Resources.delete;
 
         public FormDanhSachLoaiPhong()
         {
             InitializeComponent();
+            Load += FormDanhSachLoaiPhong_Load;
         }
 
-        private void FormDanhSachLoaiPhong_Load(object sender, EventArgs e)
+        private void FormDanhSachLoaiPhong_Load(object? sender, EventArgs e)
         {
             CauHinhLuoi();
-            LoadDanhSachLoaiPhong();
+            LoadLoaiPhong();
+        }
+
+        private void txtTimKiem_TextChanged(object? sender, EventArgs e)
+        {
+            LocTheoTuKhoa();
+        }
+
+        private void btnThemMoiLoaiPhong_Click(object sender, EventArgs e)
+        {
+            using (var formThemLoaiPhong = new FormThemLoaiPhong())
+            {
+                if (formThemLoaiPhong.ShowDialog() == DialogResult.OK)
+                {
+                    LoadLoaiPhong();
+                }
+            }
+        }
+
+        private void dtgDanhSachLoaiPhong_CellClick(object sender, DataGridViewCellEventArgs e)
+        {
+            if (e.RowIndex < 0 || e.ColumnIndex < 0) return;
+
+            var dong = dtgDanhSachLoaiPhong.Rows[e.RowIndex];
+            string? maLPH = dong.Cells["MaLPH"].Value?.ToString();
+            string? tenLPH = dong.Cells["TenLPH"].Value?.ToString();
+            if (string.IsNullOrEmpty(maLPH)) return;
+
+            string tenCot = dtgDanhSachLoaiPhong.Columns[e.ColumnIndex].Name;
+
+            if (tenCot == "colTienNghi")
+            {
+                using (var formTienNghi = new FormDanhSachChiTietTienNghi(maLPH, tenLPH ?? ""))
+                {
+                    formTienNghi.ShowDialog();
+                }
+            }
+            else if (tenCot == "colSua")
+            {
+                using (var formSua = new FormSuaLoaiPhong(maLPH))
+                {
+                    if (formSua.ShowDialog() == DialogResult.OK)
+                    {
+                        LoadLoaiPhong();
+                    }
+                }
+            }
+            else if (tenCot == "colXoa")
+            {
+                DialogResult hoi = MessageBox.Show(
+                    $"Bạn có chắc muốn xóa loại phòng {tenLPH} ({maLPH})?",
+                    "Xác nhận", MessageBoxButtons.YesNo, MessageBoxIcon.Warning);
+
+                if (hoi == DialogResult.Yes)
+                {
+                    XoaLoaiPhong(maLPH);
+                    LoadLoaiPhong();
+                }
+            }
         }
 
         private void CauHinhLuoi()
         {
-            if (dtgDanhSachLoaiPhong.Columns.Count > 0)
-                return;
+            if (dtgDanhSachLoaiPhong.Columns.Count > 0) return;
 
             dtgDanhSachLoaiPhong.ReadOnly = true;
             dtgDanhSachLoaiPhong.AllowUserToAddRows = false;
@@ -36,19 +96,25 @@ namespace HotelManagement.LoaiPhong
             dtgDanhSachLoaiPhong.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill;
             dtgDanhSachLoaiPhong.RowTemplate.Height = 40;
 
-            dtgDanhSachLoaiPhong.Columns.Add(TaoCotAnh("colIcon", "", _iconGiuong));
-            dtgDanhSachLoaiPhong.Columns.Add("MaLPH", "Mã loại phòng");
-            dtgDanhSachLoaiPhong.Columns.Add("TenLPH", "Tên loại phòng");
+            dtgDanhSachLoaiPhong.Columns.Add(TaoCotAnh("colIcon", "", _iconGiuong, 50));
+            dtgDanhSachLoaiPhong.Columns.Add("MaLPH", "Mã loại");
+            dtgDanhSachLoaiPhong.Columns.Add("TenLPH", "Tên loại");
             dtgDanhSachLoaiPhong.Columns.Add("SoGiuong", "Số giường");
             dtgDanhSachLoaiPhong.Columns.Add("SoNguoiToiDa", "Số người tối đa");
             dtgDanhSachLoaiPhong.Columns.Add("GiaNgay", "Giá ngày");
             dtgDanhSachLoaiPhong.Columns.Add("GiaGio", "Giá giờ");
-            dtgDanhSachLoaiPhong.Columns.Add(TaoCotAnh("colChiTiet", "Tiện nghi", _iconDetails));
-            dtgDanhSachLoaiPhong.Columns.Add(TaoCotAnh("colSua", "Sửa", _iconSua));
-            dtgDanhSachLoaiPhong.Columns.Add(TaoCotAnh("colXoa", "Xóa", _iconXoa));
+
+            dtgDanhSachLoaiPhong.Columns["GiaNgay"]!.DefaultCellStyle.Format = "N0";
+            dtgDanhSachLoaiPhong.Columns["GiaGio"]!.DefaultCellStyle.Format = "N0";
+            dtgDanhSachLoaiPhong.Columns["GiaNgay"]!.DefaultCellStyle.Alignment = DataGridViewContentAlignment.MiddleRight;
+            dtgDanhSachLoaiPhong.Columns["GiaGio"]!.DefaultCellStyle.Alignment = DataGridViewContentAlignment.MiddleRight;
+
+            dtgDanhSachLoaiPhong.Columns.Add(TaoCotAnh("colTienNghi", "Tiện nghi", _iconTienNghi, 60));
+            dtgDanhSachLoaiPhong.Columns.Add(TaoCotAnh("colSua", "Sửa", _iconSua, 50));
+            dtgDanhSachLoaiPhong.Columns.Add(TaoCotAnh("colXoa", "Xóa", _iconXoa, 50));
         }
 
-        private DataGridViewImageColumn TaoCotAnh(string ten, string tieuDe, Image anh)
+        private DataGridViewImageColumn TaoCotAnh(string ten, string tieuDe, Image anh, int doRong)
         {
             return new DataGridViewImageColumn
             {
@@ -57,13 +123,13 @@ namespace HotelManagement.LoaiPhong
                 Image = anh,
                 ImageLayout = DataGridViewImageCellLayout.Zoom,
                 AutoSizeMode = DataGridViewAutoSizeColumnMode.None,
-                Width = 50,
+                Width = doRong,
                 Resizable = DataGridViewTriState.False,
                 SortMode = DataGridViewColumnSortMode.NotSortable
             };
         }
 
-        private void LoadDanhSachLoaiPhong()
+        private void LoadLoaiPhong()
         {
             try
             {
@@ -71,20 +137,29 @@ namespace HotelManagement.LoaiPhong
                 var dsLoaiPhong = db.LoaiPhong
                     .AsNoTracking()
                     .OrderBy(l => l.MaLPH)
+                    .Select(l => new
+                    {
+                        l.MaLPH,
+                        l.TenLPH,
+                        l.SoGiuong,
+                        l.SoNguoiToiDa,
+                        l.GiaNgay,
+                        l.GiaGio
+                    })
                     .ToList();
 
                 dtgDanhSachLoaiPhong.Rows.Clear();
-                foreach (var lp in dsLoaiPhong)
+                foreach (var l in dsLoaiPhong)
                 {
                     dtgDanhSachLoaiPhong.Rows.Add(
                         _iconGiuong,
-                        lp.MaLPH,
-                        lp.TenLPH,
-                        lp.SoGiuong,
-                        lp.SoNguoiToiDa,
-                        lp.GiaNgay.ToString("N0") + " VNĐ",
-                        lp.GiaGio.ToString("N0") + " VNĐ",
-                        _iconDetails,
+                        l.MaLPH,
+                        l.TenLPH,
+                        l.SoGiuong,
+                        l.SoNguoiToiDa,
+                        l.GiaNgay,
+                        l.GiaGio,
+                        _iconTienNghi,
                         _iconSua,
                         _iconXoa
                     );
@@ -93,14 +168,8 @@ namespace HotelManagement.LoaiPhong
             }
             catch (Exception ex)
             {
-                MessageBox.Show("Lỗi tải danh sách loại phòng: " + ex.Message, "Lỗi",
-                    MessageBoxButtons.OK, MessageBoxIcon.Error);
+                MessageBox.Show("Lỗi khi tải loại phòng: " + ex.Message, "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
-        }
-
-        private void txtTimKiem_TextChanged(object sender, EventArgs e)
-        {
-            LocTheoTuKhoa();
         }
 
         private void LocTheoTuKhoa()
@@ -114,60 +183,6 @@ namespace HotelManagement.LoaiPhong
                 row.Visible = keyword.Length == 0
                     || ma.Contains(keyword, StringComparison.OrdinalIgnoreCase)
                     || ten.Contains(keyword, StringComparison.OrdinalIgnoreCase);
-            }
-        }
-
-        private void btnThemMoiLoaiPhong_Click(object sender, EventArgs e)
-        {
-            using (var form = new FormThemLoaiPhong())
-            {
-                if (form.ShowDialog() == DialogResult.OK)
-                {
-                    LoadDanhSachLoaiPhong();
-                }
-            }
-        }
-
-        private void dtgDanhSachLoaiPhong_CellClick(object sender, DataGridViewCellEventArgs e)
-        {
-            if (e.RowIndex < 0 || e.ColumnIndex < 0)
-                return;
-
-            string? maLPH = dtgDanhSachLoaiPhong.Rows[e.RowIndex].Cells["MaLPH"].Value?.ToString();
-            string? tenLPH = dtgDanhSachLoaiPhong.Rows[e.RowIndex].Cells["TenLPH"].Value?.ToString();
-            if (string.IsNullOrEmpty(maLPH))
-                return;
-
-            string tenCot = dtgDanhSachLoaiPhong.Columns[e.ColumnIndex].Name;
-
-            if (tenCot == "colChiTiet")
-            {
-                using (var formCT = new FormChiTietLoaiPhong(maLPH, tenLPH ?? ""))
-                {
-                    formCT.ShowDialog();
-                }
-            }
-            else if (tenCot == "colSua")
-            {
-                using (var formSua = new FormSuaLoaiPhong(maLPH))
-                {
-                    if (formSua.ShowDialog() == DialogResult.OK)
-                    {
-                        LoadDanhSachLoaiPhong();
-                    }
-                }
-            }
-            else if (tenCot == "colXoa")
-            {
-                DialogResult hoi = MessageBox.Show(
-                    $"Bạn có chắc muốn xóa loại phòng {tenLPH} ({maLPH})?",
-                    "Xác nhận", MessageBoxButtons.YesNo, MessageBoxIcon.Warning);
-
-                if (hoi == DialogResult.Yes)
-                {
-                    XoaLoaiPhong(maLPH);
-                    LoadDanhSachLoaiPhong();
-                }
             }
         }
 
