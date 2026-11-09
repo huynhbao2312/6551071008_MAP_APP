@@ -28,6 +28,12 @@
     <Compile Update="FormTrangChu.cs">
       <SubType>UserControl</SubType>
     </Compile>
+    <Compile Update="HoaDon\FormDanhSachHoaDon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HoaDon\FormHoaDon.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="KhachHang\FormDanhSachKhachHang.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -58,6 +64,21 @@
     <Compile Update="NhanVien\FormThemNhanVien.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="PhieuThue\FormChiTietPhieuThue.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PhieuThue\FormDanhSachDichVuPhongDaDung.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PhieuThue\FormDanhSachPhieuThue.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PhieuThue\FormSuaChiTietPhieuThue.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PhieuThue\FormThemDichVuPhongDaDung.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="Phong\FormDanhSachPhong.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -71,6 +92,18 @@
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="SoDoPhong\FormSoDoPhong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TaiKhoan\FormDanhSachTaiKhoan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TaiKhoan\FormSuaTaiKhoan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TaiKhoan\FormThemTaiKhoan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ThongKe\FormThongKe.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="TienNghi\FormDanhSachTienNghi.cs">

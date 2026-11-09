@@ -3,6 +3,150 @@
   "WorkspaceRootPath": "D:\\CODEVisualStudio\\HotelManagement\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|d:\\codevisualstudio\\hotelmanagement\\hotelmanagement\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|d:\\codevisualstudio\\hotelmanagement\\hotelmanagement\\thongke\\formthongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\thongke\\formthongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|d:\\codevisualstudio\\hotelmanagement\\hotelmanagement\\thongke\\formthongke.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\thongke\\formthongke.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|d:\\codevisualstudio\\hotelmanagement\\hotelmanagement\\thongke\\formthongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\thongke\\formthongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|d:\\codevisualstudio\\hotelmanagement\\hotelmanagement\\taikhoan\\formsuataikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\taikhoan\\formsuataikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|d:\\codevisualstudio\\hotelmanagement\\hotelmanagement\\taikhoan\\formsuataikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\taikhoan\\formsuataikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|d:\\codevisualstudio\\hotelmanagement\\hotelmanagement\\taikhoan\\formsuataikhoan.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\taikhoan\\formsuataikhoan.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|d:\\codevisualstudio\\hotelmanagement\\hotelmanagement\\taikhoan\\formthemtaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\taikhoan\\formthemtaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|d:\\codevisualstudio\\hotelmanagement\\hotelmanagement\\taikhoan\\formthemtaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\taikhoan\\formthemtaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|d:\\codevisualstudio\\hotelmanagement\\hotelmanagement\\taikhoan\\formthemtaikhoan.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\taikhoan\\formthemtaikhoan.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|d:\\codevisualstudio\\hotelmanagement\\hotelmanagement\\taikhoan\\formdanhsachtaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\taikhoan\\formdanhsachtaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|d:\\codevisualstudio\\hotelmanagement\\hotelmanagement\\taikhoan\\formdanhsachtaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\taikhoan\\formdanhsachtaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|d:\\codevisualstudio\\hotelmanagement\\hotelmanagement\\taikhoan\\formdanhsachtaikhoan.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\taikhoan\\formdanhsachtaikhoan.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|d:\\codevisualstudio\\hotelmanagement\\hotelmanagement\\hotelmanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\hotelmanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|d:\\codevisualstudio\\hotelmanagement\\hotelmanagement\\hoadon\\formdanhsachhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\hoadon\\formdanhsachhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|d:\\codevisualstudio\\hotelmanagement\\hotelmanagement\\models\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\models\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|d:\\codevisualstudio\\hotelmanagement\\hotelmanagement\\hoadon\\formhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\hoadon\\formhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|d:\\codevisualstudio\\hotelmanagement\\hotelmanagement\\hoadon\\formdanhsachhoadon.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\hoadon\\formdanhsachhoadon.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|d:\\codevisualstudio\\hotelmanagement\\hotelmanagement\\hoadon\\formdanhsachhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\hoadon\\formdanhsachhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|d:\\codevisualstudio\\hotelmanagement\\hotelmanagement\\hoadon\\formhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\hoadon\\formhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|d:\\codevisualstudio\\hotelmanagement\\hotelmanagement\\hoadon\\formhoadon.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\hoadon\\formhoadon.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|d:\\codevisualstudio\\hotelmanagement\\hotelmanagement\\phieuthue\\formdanhsachphieuthue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\phieuthue\\formdanhsachphieuthue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|d:\\codevisualstudio\\hotelmanagement\\hotelmanagement\\phieuthue\\formdanhsachphieuthue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\phieuthue\\formdanhsachphieuthue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|d:\\codevisualstudio\\hotelmanagement\\hotelmanagement\\phieuthue\\formdanhsachphieuthue.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\phieuthue\\formdanhsachphieuthue.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|d:\\codevisualstudio\\hotelmanagement\\hotelmanagement\\phieuthue\\formchitietphieuthue.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\phieuthue\\formchitietphieuthue.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|d:\\codevisualstudio\\hotelmanagement\\hotelmanagement\\phieuthue\\formdanhsachdichvuphongdadung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\phieuthue\\formdanhsachdichvuphongdadung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|d:\\codevisualstudio\\hotelmanagement\\hotelmanagement\\phieuthue\\formdanhsachdichvuphongdadung.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\phieuthue\\formdanhsachdichvuphongdadung.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|d:\\codevisualstudio\\hotelmanagement\\hotelmanagement\\phieuthue\\formchitietphieuthue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\phieuthue\\formchitietphieuthue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|d:\\codevisualstudio\\hotelmanagement\\hotelmanagement\\phieuthue\\formchitietphieuthue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\phieuthue\\formchitietphieuthue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|d:\\codevisualstudio\\hotelmanagement\\hotelmanagement\\phieuthue\\formdanhsachdichvuphongdadung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\phieuthue\\formdanhsachdichvuphongdadung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|d:\\codevisualstudio\\hotelmanagement\\hotelmanagement\\phieuthue\\formsuachitietphieuthue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\phieuthue\\formsuachitietphieuthue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|d:\\codevisualstudio\\hotelmanagement\\hotelmanagement\\phieuthue\\formsuachitietphieuthue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\phieuthue\\formsuachitietphieuthue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|d:\\codevisualstudio\\hotelmanagement\\hotelmanagement\\phieuthue\\formsuachitietphieuthue.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\phieuthue\\formsuachitietphieuthue.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|d:\\codevisualstudio\\hotelmanagement\\hotelmanagement\\phieuthue\\formthemdichvuphongdadung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\phieuthue\\formthemdichvuphongdadung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|d:\\codevisualstudio\\hotelmanagement\\hotelmanagement\\phieuthue\\formthemdichvuphongdadung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\phieuthue\\formthemdichvuphongdadung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|d:\\codevisualstudio\\hotelmanagement\\hotelmanagement\\phieuthue\\formthemdichvuphongdadung.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\phieuthue\\formthemdichvuphongdadung.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|d:\\codevisualstudio\\hotelmanagement\\hotelmanagement\\loaiphong\\formdanhsachloaiphong.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\loaiphong\\formdanhsachloaiphong.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,11 +159,7 @@
       "RelativeMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\sodophong\\formsodophong.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|d:\\codevisualstudio\\hotelmanagement\\hotelmanagement\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|d:\\codevisualstudio\\hotelmanagement\\hotelmanagement\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|D:\\CODEVisualStudio\\HotelManagement\\hotelmanagement\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -27,7 +167,7 @@
       "RelativeMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\dichvu\\formdanhsachdichvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|d:\\codevisualstudio\\hotelmanagement\\hotelmanagement\\dichvu\\formdanhsachdichvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|D:\\CODEVisualStudio\\HotelManagement\\hotelmanagement\\dichvu\\formdanhsachdichvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\dichvu\\formdanhsachdichvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -39,7 +179,7 @@
       "RelativeMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\nhanvien\\formdanhsachnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|d:\\codevisualstudio\\hotelmanagement\\hotelmanagement\\nhanvien\\formdanhsachnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|D:\\CODEVisualStudio\\HotelManagement\\hotelmanagement\\nhanvien\\formdanhsachnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\nhanvien\\formdanhsachnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -51,7 +191,7 @@
       "RelativeMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\khachhang\\formdanhsachkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|d:\\codevisualstudio\\hotelmanagement\\hotelmanagement\\khachhang\\formdanhsachkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|D:\\CODEVisualStudio\\HotelManagement\\hotelmanagement\\khachhang\\formdanhsachkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\khachhang\\formdanhsachkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -63,7 +203,7 @@
       "RelativeMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\tiennghi\\formdanhsachtiennghi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|d:\\codevisualstudio\\hotelmanagement\\hotelmanagement\\tiennghi\\formdanhsachtiennghi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|D:\\CODEVisualStudio\\HotelManagement\\hotelmanagement\\tiennghi\\formdanhsachtiennghi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\tiennghi\\formdanhsachtiennghi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -75,7 +215,7 @@
       "RelativeMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\sodophong\\formsodophong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|d:\\codevisualstudio\\hotelmanagement\\hotelmanagement\\sodophong\\formsodophong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|D:\\CODEVisualStudio\\HotelManagement\\hotelmanagement\\sodophong\\formsodophong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\sodophong\\formsodophong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -87,7 +227,7 @@
       "RelativeMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\sodophong\\formdatphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|d:\\codevisualstudio\\hotelmanagement\\hotelmanagement\\sodophong\\formdatphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|D:\\CODEVisualStudio\\HotelManagement\\hotelmanagement\\sodophong\\formdatphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\sodophong\\formdatphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -99,7 +239,7 @@
       "RelativeMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\loaiphong\\formdanhsachloaiphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|d:\\codevisualstudio\\hotelmanagement\\hotelmanagement\\loaiphong\\formdanhsachloaiphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|D:\\CODEVisualStudio\\HotelManagement\\hotelmanagement\\loaiphong\\formdanhsachloaiphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\loaiphong\\formdanhsachloaiphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -107,7 +247,7 @@
       "RelativeMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\chitiettiennghi\\formdanhsachchitiettiennghi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|d:\\codevisualstudio\\hotelmanagement\\hotelmanagement\\chitiettiennghi\\formdanhsachchitiettiennghi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|D:\\CODEVisualStudio\\HotelManagement\\hotelmanagement\\chitiettiennghi\\formdanhsachchitiettiennghi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\chitiettiennghi\\formdanhsachchitiettiennghi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -119,7 +259,7 @@
       "RelativeMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\chitiettiennghi\\formsuachitiettiennghi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|d:\\codevisualstudio\\hotelmanagement\\hotelmanagement\\chitiettiennghi\\formsuachitiettiennghi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|D:\\CODEVisualStudio\\HotelManagement\\hotelmanagement\\chitiettiennghi\\formsuachitiettiennghi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\chitiettiennghi\\formsuachitiettiennghi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -131,7 +271,7 @@
       "RelativeMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\chitiettiennghi\\formthemchitiettiennghi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|d:\\codevisualstudio\\hotelmanagement\\hotelmanagement\\chitiettiennghi\\formthemchitiettiennghi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|D:\\CODEVisualStudio\\HotelManagement\\hotelmanagement\\chitiettiennghi\\formthemchitiettiennghi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\chitiettiennghi\\formthemchitiettiennghi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -139,15 +279,11 @@
       "RelativeMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\chitiettiennghi\\formthemchitiettiennghi.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|d:\\codevisualstudio\\hotelmanagement\\hotelmanagement\\hotelmanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\hotelmanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|d:\\codevisualstudio\\hotelmanagement\\hotelmanagement\\nhanvien\\formsuanhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\nhanvien\\formsuanhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|d:\\codevisualstudio\\hotelmanagement\\hotelmanagement\\nhanvien\\formsuanhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|D:\\CODEVisualStudio\\HotelManagement\\hotelmanagement\\nhanvien\\formsuanhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\nhanvien\\formsuanhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -159,7 +295,7 @@
       "RelativeMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\nhanvien\\formthemnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|d:\\codevisualstudio\\hotelmanagement\\hotelmanagement\\nhanvien\\formthemnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|D:\\CODEVisualStudio\\HotelManagement\\hotelmanagement\\nhanvien\\formthemnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\nhanvien\\formthemnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -175,7 +311,7 @@
       "RelativeMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\khachhang\\formsuakhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|d:\\codevisualstudio\\hotelmanagement\\hotelmanagement\\khachhang\\formsuakhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|D:\\CODEVisualStudio\\HotelManagement\\hotelmanagement\\khachhang\\formsuakhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\khachhang\\formsuakhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -187,7 +323,7 @@
       "RelativeMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\khachhang\\formthemkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|d:\\codevisualstudio\\hotelmanagement\\hotelmanagement\\khachhang\\formthemkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|D:\\CODEVisualStudio\\HotelManagement\\hotelmanagement\\khachhang\\formthemkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\khachhang\\formthemkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -199,7 +335,7 @@
       "RelativeMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\tiennghi\\formsuatiennghi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|d:\\codevisualstudio\\hotelmanagement\\hotelmanagement\\tiennghi\\formsuatiennghi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|D:\\CODEVisualStudio\\HotelManagement\\hotelmanagement\\tiennghi\\formsuatiennghi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\tiennghi\\formsuatiennghi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -211,7 +347,7 @@
       "RelativeMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\tiennghi\\formthemtiennghi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|d:\\codevisualstudio\\hotelmanagement\\hotelmanagement\\tiennghi\\formthemtiennghi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|D:\\CODEVisualStudio\\HotelManagement\\hotelmanagement\\tiennghi\\formthemtiennghi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\tiennghi\\formthemtiennghi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -223,7 +359,7 @@
       "RelativeMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\dichvu\\formsuadichvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|d:\\codevisualstudio\\hotelmanagement\\hotelmanagement\\dichvu\\formsuadichvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|D:\\CODEVisualStudio\\HotelManagement\\hotelmanagement\\dichvu\\formsuadichvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\dichvu\\formsuadichvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -235,7 +371,7 @@
       "RelativeMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\dichvu\\formthemdichvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|d:\\codevisualstudio\\hotelmanagement\\hotelmanagement\\dichvu\\formthemdichvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|D:\\CODEVisualStudio\\HotelManagement\\hotelmanagement\\dichvu\\formthemdichvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{630C234E-BEBC-D068-CAAF-13C6F768816A}|HotelManagement\\HotelManagement.csproj|solutionrelative:hotelmanagement\\dichvu\\formthemdichvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -358,7 +494,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -386,436 +522,224 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormThongKe.cs [Design]",
+              "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\ThongKe\\FormThongKe.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\ThongKe\\FormThongKe.cs",
+              "ToolTip": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\ThongKe\\FormThongKe.cs [Design]",
+              "RelativeToolTip": "HotelManagement\\ThongKe\\FormThongKe.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T03:42:38.332Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "FormThongKe.cs",
+              "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\ThongKe\\FormThongKe.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\ThongKe\\FormThongKe.cs",
+              "ToolTip": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\ThongKe\\FormThongKe.cs",
+              "RelativeToolTip": "HotelManagement\\ThongKe\\FormThongKe.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAcwJ0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T03:42:10.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormThongKe.Designer.cs",
+              "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\ThongKe\\FormThongKe.Designer.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\ThongKe\\FormThongKe.Designer.cs",
+              "ToolTip": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\ThongKe\\FormThongKe.Designer.cs",
+              "RelativeToolTip": "HotelManagement\\ThongKe\\FormThongKe.Designer.cs",
+              "ViewState": "AgIAABECAAAAAAAAAAA2wCsCAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T03:41:48.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormSuaTaiKhoan.cs",
+              "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\TaiKhoan\\FormSuaTaiKhoan.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\TaiKhoan\\FormSuaTaiKhoan.cs",
+              "ToolTip": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\TaiKhoan\\FormSuaTaiKhoan.cs",
+              "RelativeToolTip": "HotelManagement\\TaiKhoan\\FormSuaTaiKhoan.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAcwIwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T03:37:30.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "FormMain.cs",
               "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\FormMain.cs",
               "RelativeDocumentMoniker": "HotelManagement\\FormMain.cs",
               "ToolTip": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\FormMain.cs",
               "RelativeToolTip": "HotelManagement\\FormMain.cs",
-              "ViewState": "AgIAADcAAAAAAAAAAAA/wEUAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-26T03:26:24.589Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FormSoDoPhong.Designer.cs",
-              "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\SoDoPhong\\FormSoDoPhong.Designer.cs",
-              "RelativeDocumentMoniker": "HotelManagement\\SoDoPhong\\FormSoDoPhong.Designer.cs",
-              "ToolTip": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\SoDoPhong\\FormSoDoPhong.Designer.cs",
-              "RelativeToolTip": "HotelManagement\\SoDoPhong\\FormSoDoPhong.Designer.cs",
-              "ViewState": "AgIAAEIBAAAAAAAAAAAmwFQBAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-26T03:29:21.491Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FormDanhSachPhong.Designer.cs",
-              "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\Phong\\FormDanhSachPhong.Designer.cs",
-              "RelativeDocumentMoniker": "HotelManagement\\Phong\\FormDanhSachPhong.Designer.cs",
-              "ToolTip": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\Phong\\FormDanhSachPhong.Designer.cs",
-              "RelativeToolTip": "HotelManagement\\Phong\\FormDanhSachPhong.Designer.cs",
-              "ViewState": "AgIAAEEAAAAAAAAAAAAgwEoAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-26T03:34:50.573Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FormDanhSachLoaiPhong.Designer.cs",
-              "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\LoaiPhong\\FormDanhSachLoaiPhong.Designer.cs",
-              "RelativeDocumentMoniker": "HotelManagement\\LoaiPhong\\FormDanhSachLoaiPhong.Designer.cs",
-              "ToolTip": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\LoaiPhong\\FormDanhSachLoaiPhong.Designer.cs",
-              "RelativeToolTip": "HotelManagement\\LoaiPhong\\FormDanhSachLoaiPhong.Designer.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAuwC4AAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-26T03:41:17.733Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "FormMain.cs [Design]",
-              "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\FormMain.cs",
-              "RelativeDocumentMoniker": "HotelManagement\\FormMain.cs",
-              "ToolTip": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\FormMain.cs [Design]",
-              "RelativeToolTip": "HotelManagement\\FormMain.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-02T01:33:57.514Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "FormDanhSachDichVu.cs",
-              "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\DichVu\\FormDanhSachDichVu.cs",
-              "RelativeDocumentMoniker": "HotelManagement\\DichVu\\FormDanhSachDichVu.cs",
-              "ToolTip": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\DichVu\\FormDanhSachDichVu.cs",
-              "RelativeToolTip": "HotelManagement\\DichVu\\FormDanhSachDichVu.cs",
-              "ViewState": "AgIAANsAAAAAAAAAAAAiwAsBAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-02T01:20:59.54Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "FormDanhSachDichVu.cs [Design]",
-              "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\DichVu\\FormDanhSachDichVu.cs",
-              "RelativeDocumentMoniker": "HotelManagement\\DichVu\\FormDanhSachDichVu.cs",
-              "ToolTip": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\DichVu\\FormDanhSachDichVu.cs [Design]",
-              "RelativeToolTip": "HotelManagement\\DichVu\\FormDanhSachDichVu.cs [Design]",
+              "Title": "FormSuaTaiKhoan.Designer.cs",
+              "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\TaiKhoan\\FormSuaTaiKhoan.Designer.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\TaiKhoan\\FormSuaTaiKhoan.Designer.cs",
+              "ToolTip": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\TaiKhoan\\FormSuaTaiKhoan.Designer.cs",
+              "RelativeToolTip": "HotelManagement\\TaiKhoan\\FormSuaTaiKhoan.Designer.cs",
+              "ViewState": "AgIAALwAAAAAAAAAAAAcwNYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-02T01:17:09.56Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-11-09T03:37:19.583Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "FormDanhSachDichVu.Designer.cs",
-              "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\DichVu\\FormDanhSachDichVu.Designer.cs",
-              "RelativeDocumentMoniker": "HotelManagement\\DichVu\\FormDanhSachDichVu.Designer.cs",
-              "ToolTip": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\DichVu\\FormDanhSachDichVu.Designer.cs",
-              "RelativeToolTip": "HotelManagement\\DichVu\\FormDanhSachDichVu.Designer.cs",
-              "ViewState": "AgIAAD0AAAAAAAAAAAAiwE4AAAA7AAAAAAAAAA==",
+              "Title": "FormThemTaiKhoan.cs",
+              "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\TaiKhoan\\FormThemTaiKhoan.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\TaiKhoan\\FormThemTaiKhoan.cs",
+              "ToolTip": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\TaiKhoan\\FormThemTaiKhoan.cs",
+              "RelativeToolTip": "HotelManagement\\TaiKhoan\\FormThemTaiKhoan.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAcwIYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-02T01:20:44.205Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "FormDanhSachNhanVien.cs",
-              "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\NhanVien\\FormDanhSachNhanVien.cs",
-              "RelativeDocumentMoniker": "HotelManagement\\NhanVien\\FormDanhSachNhanVien.cs",
-              "ToolTip": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\NhanVien\\FormDanhSachNhanVien.cs",
-              "RelativeToolTip": "HotelManagement\\NhanVien\\FormDanhSachNhanVien.cs",
-              "ViewState": "AgIAAGQAAAAAAAAAAAAkwHAAAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-02T01:58:51.058Z",
+              "WhenOpened": "2026-11-09T03:37:08.967Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "FormDanhSachNhanVien.cs [Design]",
-              "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\NhanVien\\FormDanhSachNhanVien.cs",
-              "RelativeDocumentMoniker": "HotelManagement\\NhanVien\\FormDanhSachNhanVien.cs",
-              "ToolTip": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\NhanVien\\FormDanhSachNhanVien.cs [Design]",
-              "RelativeToolTip": "HotelManagement\\NhanVien\\FormDanhSachNhanVien.cs [Design]",
+              "Title": "FormThemTaiKhoan.Designer.cs",
+              "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\TaiKhoan\\FormThemTaiKhoan.Designer.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\TaiKhoan\\FormThemTaiKhoan.Designer.cs",
+              "ToolTip": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\TaiKhoan\\FormThemTaiKhoan.Designer.cs",
+              "RelativeToolTip": "HotelManagement\\TaiKhoan\\FormThemTaiKhoan.Designer.cs",
+              "ViewState": "AgIAALwAAAAAAAAAAAAcwNYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-02T01:56:44.663Z",
+              "WhenOpened": "2026-11-09T03:36:52.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormSuaTaiKhoan.cs [Design]",
+              "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\TaiKhoan\\FormSuaTaiKhoan.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\TaiKhoan\\FormSuaTaiKhoan.cs",
+              "ToolTip": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\TaiKhoan\\FormSuaTaiKhoan.cs [Design]",
+              "RelativeToolTip": "HotelManagement\\TaiKhoan\\FormSuaTaiKhoan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T03:33:17.772Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "FormDanhSachNhanVien.Designer.cs",
-              "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\NhanVien\\FormDanhSachNhanVien.Designer.cs",
-              "RelativeDocumentMoniker": "HotelManagement\\NhanVien\\FormDanhSachNhanVien.Designer.cs",
-              "ToolTip": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\NhanVien\\FormDanhSachNhanVien.Designer.cs",
-              "RelativeToolTip": "HotelManagement\\NhanVien\\FormDanhSachNhanVien.Designer.cs",
-              "ViewState": "AgIAAEQAAAAAAAAAAAAiwE4AAAA7AAAAAAAAAA==",
+              "Title": "FormDanhSachTaiKhoan.cs",
+              "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\TaiKhoan\\FormDanhSachTaiKhoan.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\TaiKhoan\\FormDanhSachTaiKhoan.cs",
+              "ToolTip": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\TaiKhoan\\FormDanhSachTaiKhoan.cs",
+              "RelativeToolTip": "HotelManagement\\TaiKhoan\\FormDanhSachTaiKhoan.cs",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAIwCwBAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-02T01:58:32.543Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "FormDanhSachKhachHang.cs",
-              "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\KhachHang\\FormDanhSachKhachHang.cs",
-              "RelativeDocumentMoniker": "HotelManagement\\KhachHang\\FormDanhSachKhachHang.cs",
-              "ToolTip": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\KhachHang\\FormDanhSachKhachHang.cs",
-              "RelativeToolTip": "HotelManagement\\KhachHang\\FormDanhSachKhachHang.cs",
-              "ViewState": "AgIAAGEAAAAAAAAAAAAkwGwAAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-02T01:51:30.807Z",
+              "WhenOpened": "2026-11-09T03:34:13.457Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "FormDanhSachKhachHang.cs [Design]",
-              "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\KhachHang\\FormDanhSachKhachHang.cs",
-              "RelativeDocumentMoniker": "HotelManagement\\KhachHang\\FormDanhSachKhachHang.cs",
-              "ToolTip": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\KhachHang\\FormDanhSachKhachHang.cs [Design]",
-              "RelativeToolTip": "HotelManagement\\KhachHang\\FormDanhSachKhachHang.cs [Design]",
+              "Title": "FormDanhSachTaiKhoan.Designer.cs",
+              "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\TaiKhoan\\FormDanhSachTaiKhoan.Designer.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\TaiKhoan\\FormDanhSachTaiKhoan.Designer.cs",
+              "ToolTip": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\TaiKhoan\\FormDanhSachTaiKhoan.Designer.cs",
+              "RelativeToolTip": "HotelManagement\\TaiKhoan\\FormDanhSachTaiKhoan.Designer.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAgwHMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-02T01:47:54.797Z",
+              "WhenOpened": "2026-11-09T03:33:45.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormThemTaiKhoan.cs [Design]",
+              "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\TaiKhoan\\FormThemTaiKhoan.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\TaiKhoan\\FormThemTaiKhoan.cs",
+              "ToolTip": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\TaiKhoan\\FormThemTaiKhoan.cs [Design]",
+              "RelativeToolTip": "HotelManagement\\TaiKhoan\\FormThemTaiKhoan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T03:33:05.569Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "FormDanhSachKhachHang.Designer.cs",
-              "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\KhachHang\\FormDanhSachKhachHang.Designer.cs",
-              "RelativeDocumentMoniker": "HotelManagement\\KhachHang\\FormDanhSachKhachHang.Designer.cs",
-              "ToolTip": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\KhachHang\\FormDanhSachKhachHang.Designer.cs",
-              "RelativeToolTip": "HotelManagement\\KhachHang\\FormDanhSachKhachHang.Designer.cs",
-              "ViewState": "AgIAADsAAAAAAAAAAAAiwEoAAAA7AAAAAAAAAA==",
+              "DocumentIndex": 11,
+              "Title": "FormDanhSachTaiKhoan.cs [Design]",
+              "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\TaiKhoan\\FormDanhSachTaiKhoan.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\TaiKhoan\\FormDanhSachTaiKhoan.cs",
+              "ToolTip": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\TaiKhoan\\FormDanhSachTaiKhoan.cs [Design]",
+              "RelativeToolTip": "HotelManagement\\TaiKhoan\\FormDanhSachTaiKhoan.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-02T01:51:17.001Z",
+              "WhenOpened": "2026-11-09T03:32:54.105Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "KhachHang.cs",
+              "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\Models\\KhachHang.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\Models\\KhachHang.cs",
+              "ToolTip": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\Models\\KhachHang.cs",
+              "RelativeToolTip": "HotelManagement\\Models\\KhachHang.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T03:29:47.771Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "FormDanhSachTienNghi.cs",
-              "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\TienNghi\\FormDanhSachTienNghi.cs",
-              "RelativeDocumentMoniker": "HotelManagement\\TienNghi\\FormDanhSachTienNghi.cs",
-              "ToolTip": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\TienNghi\\FormDanhSachTienNghi.cs",
-              "RelativeToolTip": "HotelManagement\\TienNghi\\FormDanhSachTienNghi.cs",
-              "ViewState": "AgIAAEYAAAAAAAAAAAAkwFoAAAAAAAAAAAAAAA==",
+              "Title": "FormDanhSachHoaDon.cs",
+              "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\HoaDon\\FormDanhSachHoaDon.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\HoaDon\\FormDanhSachHoaDon.cs",
+              "ToolTip": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\HoaDon\\FormDanhSachHoaDon.cs",
+              "RelativeToolTip": "HotelManagement\\HoaDon\\FormDanhSachHoaDon.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAowFkAAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-02T01:37:48.446Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "FormDanhSachTienNghi.cs [Design]",
-              "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\TienNghi\\FormDanhSachTienNghi.cs",
-              "RelativeDocumentMoniker": "HotelManagement\\TienNghi\\FormDanhSachTienNghi.cs",
-              "ToolTip": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\TienNghi\\FormDanhSachTienNghi.cs [Design]",
-              "RelativeToolTip": "HotelManagement\\TienNghi\\FormDanhSachTienNghi.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-02T01:34:49.125Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "FormDanhSachTienNghi.Designer.cs",
-              "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\TienNghi\\FormDanhSachTienNghi.Designer.cs",
-              "RelativeDocumentMoniker": "HotelManagement\\TienNghi\\FormDanhSachTienNghi.Designer.cs",
-              "ToolTip": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\TienNghi\\FormDanhSachTienNghi.Designer.cs",
-              "RelativeToolTip": "HotelManagement\\TienNghi\\FormDanhSachTienNghi.Designer.cs",
-              "ViewState": "AgIAAD4AAAAAAAAAAAAgwEsAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-02T01:37:31.135Z",
+              "WhenOpened": "2026-11-09T03:25:48.726Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
-              "Title": "FormSoDoPhong.cs",
-              "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\SoDoPhong\\FormSoDoPhong.cs",
-              "RelativeDocumentMoniker": "HotelManagement\\SoDoPhong\\FormSoDoPhong.cs",
-              "ToolTip": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\SoDoPhong\\FormSoDoPhong.cs",
-              "RelativeToolTip": "HotelManagement\\SoDoPhong\\FormSoDoPhong.cs",
-              "ViewState": "AgIAADwAAAAAAAAAAAAiwE0AAAAJAAAAAAAAAA==",
+              "Title": "FormDanhSachHoaDon.Designer.cs",
+              "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\HoaDon\\FormDanhSachHoaDon.Designer.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\HoaDon\\FormDanhSachHoaDon.Designer.cs",
+              "ToolTip": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\HoaDon\\FormDanhSachHoaDon.Designer.cs",
+              "RelativeToolTip": "HotelManagement\\HoaDon\\FormDanhSachHoaDon.Designer.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAiwHgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-26T03:29:59.442Z",
+              "WhenOpened": "2026-11-09T03:25:36.116Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "FormSoDoPhong.cs [Design]",
-              "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\SoDoPhong\\FormSoDoPhong.cs",
-              "RelativeDocumentMoniker": "HotelManagement\\SoDoPhong\\FormSoDoPhong.cs",
-              "ToolTip": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\SoDoPhong\\FormSoDoPhong.cs [Design]",
-              "RelativeToolTip": "HotelManagement\\SoDoPhong\\FormSoDoPhong.cs [Design]",
+              "DocumentIndex": 16,
+              "Title": "FormHoaDon.cs",
+              "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\HoaDon\\FormHoaDon.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\HoaDon\\FormHoaDon.cs",
+              "ToolTip": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\HoaDon\\FormHoaDon.cs",
+              "RelativeToolTip": "HotelManagement\\HoaDon\\FormHoaDon.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAADwv2IAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-02T01:33:57.489Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "FormSoDoPhong.cs [Design]",
-              "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\SoDoPhong\\FormSoDoPhong.cs",
-              "RelativeDocumentMoniker": "HotelManagement\\SoDoPhong\\FormSoDoPhong.cs",
-              "ToolTip": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\SoDoPhong\\FormSoDoPhong.cs [Design]",
-              "RelativeToolTip": "HotelManagement\\SoDoPhong\\FormSoDoPhong.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-26T03:29:11.691Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "FormDatPhong.cs",
-              "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\SoDoPhong\\FormDatPhong.cs",
-              "RelativeDocumentMoniker": "HotelManagement\\SoDoPhong\\FormDatPhong.cs",
-              "ToolTip": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\SoDoPhong\\FormDatPhong.cs",
-              "RelativeToolTip": "HotelManagement\\SoDoPhong\\FormDatPhong.cs",
-              "ViewState": "AgIAAPcBAAAAAAAAAAAiwBICAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-02T02:19:50.794Z",
+              "WhenOpened": "2026-11-09T03:24:42.094Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "FormDatPhong.cs [Design]",
-              "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\SoDoPhong\\FormDatPhong.cs",
-              "RelativeDocumentMoniker": "HotelManagement\\SoDoPhong\\FormDatPhong.cs",
-              "ToolTip": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\SoDoPhong\\FormDatPhong.cs [Design]",
-              "RelativeToolTip": "HotelManagement\\SoDoPhong\\FormDatPhong.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-02T02:19:23.464Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "FormDatPhong.Designer.cs",
-              "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\SoDoPhong\\FormDatPhong.Designer.cs",
-              "RelativeDocumentMoniker": "HotelManagement\\SoDoPhong\\FormDatPhong.Designer.cs",
-              "ToolTip": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\SoDoPhong\\FormDatPhong.Designer.cs",
-              "RelativeToolTip": "HotelManagement\\SoDoPhong\\FormDatPhong.Designer.cs",
-              "ViewState": "AgIAAKQBAAAAAAAAAAA4wL8BAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-02T02:19:26.886Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "FormDanhSachChiTietTienNghi.cs",
-              "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\ChiTietTienNghi\\FormDanhSachChiTietTienNghi.cs",
-              "RelativeDocumentMoniker": "HotelManagement\\ChiTietTienNghi\\FormDanhSachChiTietTienNghi.cs",
-              "ToolTip": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\ChiTietTienNghi\\FormDanhSachChiTietTienNghi.cs",
-              "RelativeToolTip": "HotelManagement\\ChiTietTienNghi\\FormDanhSachChiTietTienNghi.cs",
-              "ViewState": "AgIAALYAAAAAAAAAAAAiwNEAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-02T02:11:52.188Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "FormDanhSachChiTietTienNghi.Designer.cs",
-              "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\ChiTietTienNghi\\FormDanhSachChiTietTienNghi.Designer.cs",
-              "RelativeDocumentMoniker": "HotelManagement\\ChiTietTienNghi\\FormDanhSachChiTietTienNghi.Designer.cs",
-              "ToolTip": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\ChiTietTienNghi\\FormDanhSachChiTietTienNghi.Designer.cs",
-              "RelativeToolTip": "HotelManagement\\ChiTietTienNghi\\FormDanhSachChiTietTienNghi.Designer.cs",
-              "ViewState": "AgIAAFgAAAAAAAAAAAAiwHMAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-02T02:11:39.733Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "FormDanhSachLoaiPhong.cs [Design]",
-              "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\LoaiPhong\\FormDanhSachLoaiPhong.cs",
-              "RelativeDocumentMoniker": "HotelManagement\\LoaiPhong\\FormDanhSachLoaiPhong.cs",
-              "ToolTip": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\LoaiPhong\\FormDanhSachLoaiPhong.cs [Design]",
-              "RelativeToolTip": "HotelManagement\\LoaiPhong\\FormDanhSachLoaiPhong.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-02T01:08:42.414Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "FormDanhSachLoaiPhong.cs",
-              "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\LoaiPhong\\FormDanhSachLoaiPhong.cs",
-              "RelativeDocumentMoniker": "HotelManagement\\LoaiPhong\\FormDanhSachLoaiPhong.cs",
-              "ToolTip": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\LoaiPhong\\FormDanhSachLoaiPhong.cs",
-              "RelativeToolTip": "HotelManagement\\LoaiPhong\\FormDanhSachLoaiPhong.cs",
-              "ViewState": "AgIAAL4AAAAAAAAAAAAiwMsAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-26T03:41:31.943Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "FormSuaChiTietTienNghi.cs",
-              "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\ChiTietTienNghi\\FormSuaChiTietTienNghi.cs",
-              "RelativeDocumentMoniker": "HotelManagement\\ChiTietTienNghi\\FormSuaChiTietTienNghi.cs",
-              "ToolTip": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\ChiTietTienNghi\\FormSuaChiTietTienNghi.cs",
-              "RelativeToolTip": "HotelManagement\\ChiTietTienNghi\\FormSuaChiTietTienNghi.cs",
-              "ViewState": "AgIAAFUAAAAAAAAAAAAiwHAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-02T02:11:00.614Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "FormSuaChiTietTienNghi.Designer.cs",
-              "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\ChiTietTienNghi\\FormSuaChiTietTienNghi.Designer.cs",
-              "RelativeDocumentMoniker": "HotelManagement\\ChiTietTienNghi\\FormSuaChiTietTienNghi.Designer.cs",
-              "ToolTip": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\ChiTietTienNghi\\FormSuaChiTietTienNghi.Designer.cs",
-              "RelativeToolTip": "HotelManagement\\ChiTietTienNghi\\FormSuaChiTietTienNghi.Designer.cs",
-              "ViewState": "AgIAAG0AAAAAAAAAAAAiwIgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-02T02:10:46.635Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "FormDanhSachChiTietTienNghi.cs [Design]",
-              "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\ChiTietTienNghi\\FormDanhSachChiTietTienNghi.cs",
-              "RelativeDocumentMoniker": "HotelManagement\\ChiTietTienNghi\\FormDanhSachChiTietTienNghi.cs",
-              "ToolTip": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\ChiTietTienNghi\\FormDanhSachChiTietTienNghi.cs [Design]",
-              "RelativeToolTip": "HotelManagement\\ChiTietTienNghi\\FormDanhSachChiTietTienNghi.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-02T02:06:52.832Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "FormThemChiTietTienNghi.cs",
-              "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\ChiTietTienNghi\\FormThemChiTietTienNghi.cs",
-              "RelativeDocumentMoniker": "HotelManagement\\ChiTietTienNghi\\FormThemChiTietTienNghi.cs",
-              "ToolTip": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\ChiTietTienNghi\\FormThemChiTietTienNghi.cs",
-              "RelativeToolTip": "HotelManagement\\ChiTietTienNghi\\FormThemChiTietTienNghi.cs",
-              "ViewState": "AgIAAI0AAAAAAAAAAAAiwKgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-02T02:10:23.533Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "FormThemChiTietTienNghi.Designer.cs",
-              "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\ChiTietTienNghi\\FormThemChiTietTienNghi.Designer.cs",
-              "RelativeDocumentMoniker": "HotelManagement\\ChiTietTienNghi\\FormThemChiTietTienNghi.Designer.cs",
-              "ToolTip": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\ChiTietTienNghi\\FormThemChiTietTienNghi.Designer.cs",
-              "RelativeToolTip": "HotelManagement\\ChiTietTienNghi\\FormThemChiTietTienNghi.Designer.cs",
-              "ViewState": "AgIAAGwAAAAAAAAAAAAiwIcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-02T02:10:08.858Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "FormSuaChiTietTienNghi.cs [Design]",
-              "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\ChiTietTienNghi\\FormSuaChiTietTienNghi.cs",
-              "RelativeDocumentMoniker": "HotelManagement\\ChiTietTienNghi\\FormSuaChiTietTienNghi.cs",
-              "ToolTip": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\ChiTietTienNghi\\FormSuaChiTietTienNghi.cs [Design]",
-              "RelativeToolTip": "HotelManagement\\ChiTietTienNghi\\FormSuaChiTietTienNghi.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-02T02:07:30.533Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "FormThemChiTietTienNghi.cs [Design]",
-              "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\ChiTietTienNghi\\FormThemChiTietTienNghi.cs",
-              "RelativeDocumentMoniker": "HotelManagement\\ChiTietTienNghi\\FormThemChiTietTienNghi.cs",
-              "ToolTip": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\ChiTietTienNghi\\FormThemChiTietTienNghi.cs [Design]",
-              "RelativeToolTip": "HotelManagement\\ChiTietTienNghi\\FormThemChiTietTienNghi.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-02T02:07:11.473Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 13,
               "Title": "HotelManagement.csproj",
               "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\HotelManagement.csproj",
               "RelativeDocumentMoniker": "HotelManagement\\HotelManagement.csproj",
@@ -828,7 +752,628 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FormHoaDon.Designer.cs",
+              "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\HoaDon\\FormHoaDon.Designer.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\HoaDon\\FormHoaDon.Designer.cs",
+              "ToolTip": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\HoaDon\\FormHoaDon.Designer.cs",
+              "RelativeToolTip": "HotelManagement\\HoaDon\\FormHoaDon.Designer.cs",
+              "ViewState": "AgIAAJMBAAAAAAAAAAAiwK4BAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T03:24:28.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FormDanhSachHoaDon.cs [Design]",
+              "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\HoaDon\\FormDanhSachHoaDon.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\HoaDon\\FormDanhSachHoaDon.cs",
+              "ToolTip": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\HoaDon\\FormDanhSachHoaDon.cs [Design]",
+              "RelativeToolTip": "HotelManagement\\HoaDon\\FormDanhSachHoaDon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T03:24:17.168Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FormHoaDon.cs [Design]",
+              "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\HoaDon\\FormHoaDon.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\HoaDon\\FormHoaDon.cs",
+              "ToolTip": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\HoaDon\\FormHoaDon.cs [Design]",
+              "RelativeToolTip": "HotelManagement\\HoaDon\\FormHoaDon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T03:24:05.707Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FormDanhSachPhieuThue.cs",
+              "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\PhieuThue\\FormDanhSachPhieuThue.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\PhieuThue\\FormDanhSachPhieuThue.cs",
+              "ToolTip": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\PhieuThue\\FormDanhSachPhieuThue.cs",
+              "RelativeToolTip": "HotelManagement\\PhieuThue\\FormDanhSachPhieuThue.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAmwN8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T03:16:12.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FormChiTietPhieuThue.Designer.cs",
+              "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\PhieuThue\\FormChiTietPhieuThue.Designer.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\PhieuThue\\FormChiTietPhieuThue.Designer.cs",
+              "ToolTip": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\PhieuThue\\FormChiTietPhieuThue.Designer.cs",
+              "RelativeToolTip": "HotelManagement\\PhieuThue\\FormChiTietPhieuThue.Designer.cs",
+              "ViewState": "AgIAALMAAAAAAAAAAAAqwLsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T03:11:14.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FormDanhSachPhieuThue.Designer.cs",
+              "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\PhieuThue\\FormDanhSachPhieuThue.Designer.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\PhieuThue\\FormDanhSachPhieuThue.Designer.cs",
+              "ToolTip": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\PhieuThue\\FormDanhSachPhieuThue.Designer.cs",
+              "RelativeToolTip": "HotelManagement\\PhieuThue\\FormDanhSachPhieuThue.Designer.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAiwH4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T03:08:44.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FormDanhSachDichVuPhongDaDung.cs",
+              "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\PhieuThue\\FormDanhSachDichVuPhongDaDung.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\PhieuThue\\FormDanhSachDichVuPhongDaDung.cs",
+              "ToolTip": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\PhieuThue\\FormDanhSachDichVuPhongDaDung.cs",
+              "RelativeToolTip": "HotelManagement\\PhieuThue\\FormDanhSachDichVuPhongDaDung.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAiwIwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T03:10:04.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FormDanhSachPhieuThue.cs [Design]",
+              "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\PhieuThue\\FormDanhSachPhieuThue.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\PhieuThue\\FormDanhSachPhieuThue.cs",
+              "ToolTip": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\PhieuThue\\FormDanhSachPhieuThue.cs [Design]",
+              "RelativeToolTip": "HotelManagement\\PhieuThue\\FormDanhSachPhieuThue.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T03:03:17.165Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "FormDanhSachDichVuPhongDaDung.Designer.cs",
+              "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\PhieuThue\\FormDanhSachDichVuPhongDaDung.Designer.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\PhieuThue\\FormDanhSachDichVuPhongDaDung.Designer.cs",
+              "ToolTip": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\PhieuThue\\FormDanhSachDichVuPhongDaDung.Designer.cs",
+              "RelativeToolTip": "HotelManagement\\PhieuThue\\FormDanhSachDichVuPhongDaDung.Designer.cs",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAiwKwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T03:09:44.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "FormChiTietPhieuThue.cs",
+              "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\PhieuThue\\FormChiTietPhieuThue.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\PhieuThue\\FormChiTietPhieuThue.cs",
+              "ToolTip": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\PhieuThue\\FormChiTietPhieuThue.cs",
+              "RelativeToolTip": "HotelManagement\\PhieuThue\\FormChiTietPhieuThue.cs",
+              "ViewState": "AgIAAGkBAAAAAAAAAAAiwIQBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T03:11:36.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "FormChiTietPhieuThue.cs [Design]",
+              "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\PhieuThue\\FormChiTietPhieuThue.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\PhieuThue\\FormChiTietPhieuThue.cs",
+              "ToolTip": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\PhieuThue\\FormChiTietPhieuThue.cs [Design]",
+              "RelativeToolTip": "HotelManagement\\PhieuThue\\FormChiTietPhieuThue.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T03:03:03.701Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "FormSuaChiTietPhieuThue.cs",
+              "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\PhieuThue\\FormSuaChiTietPhieuThue.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\PhieuThue\\FormSuaChiTietPhieuThue.cs",
+              "ToolTip": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\PhieuThue\\FormSuaChiTietPhieuThue.cs",
+              "RelativeToolTip": "HotelManagement\\PhieuThue\\FormSuaChiTietPhieuThue.cs",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAiwJ8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T03:07:04.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "FormDanhSachDichVuPhongDaDung.cs [Design]",
+              "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\PhieuThue\\FormDanhSachDichVuPhongDaDung.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\PhieuThue\\FormDanhSachDichVuPhongDaDung.cs",
+              "ToolTip": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\PhieuThue\\FormDanhSachDichVuPhongDaDung.cs [Design]",
+              "RelativeToolTip": "HotelManagement\\PhieuThue\\FormDanhSachDichVuPhongDaDung.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T03:02:48.503Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "FormSuaChiTietPhieuThue.Designer.cs",
+              "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\PhieuThue\\FormSuaChiTietPhieuThue.Designer.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\PhieuThue\\FormSuaChiTietPhieuThue.Designer.cs",
+              "ToolTip": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\PhieuThue\\FormSuaChiTietPhieuThue.Designer.cs",
+              "RelativeToolTip": "HotelManagement\\PhieuThue\\FormSuaChiTietPhieuThue.Designer.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAiwHgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T03:06:48.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "FormThemDichVuPhongDaDung.cs",
+              "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\PhieuThue\\FormThemDichVuPhongDaDung.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\PhieuThue\\FormThemDichVuPhongDaDung.cs",
+              "ToolTip": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\PhieuThue\\FormThemDichVuPhongDaDung.cs",
+              "RelativeToolTip": "HotelManagement\\PhieuThue\\FormThemDichVuPhongDaDung.cs",
+              "ViewState": "AgIAAN4AAAAAAAAAAAAiwPkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T03:06:25.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 35,
+              "Title": "FormThemDichVuPhongDaDung.Designer.cs",
+              "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\PhieuThue\\FormThemDichVuPhongDaDung.Designer.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\PhieuThue\\FormThemDichVuPhongDaDung.Designer.cs",
+              "ToolTip": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\PhieuThue\\FormThemDichVuPhongDaDung.Designer.cs",
+              "RelativeToolTip": "HotelManagement\\PhieuThue\\FormThemDichVuPhongDaDung.Designer.cs",
+              "ViewState": "AgIAAAMBAAAAAAAAAAAiwB4BAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T03:05:56.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "FormSuaChiTietPhieuThue.cs [Design]",
+              "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\PhieuThue\\FormSuaChiTietPhieuThue.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\PhieuThue\\FormSuaChiTietPhieuThue.cs",
+              "ToolTip": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\PhieuThue\\FormSuaChiTietPhieuThue.cs [Design]",
+              "RelativeToolTip": "HotelManagement\\PhieuThue\\FormSuaChiTietPhieuThue.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T03:02:34.719Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "FormThemDichVuPhongDaDung.cs [Design]",
+              "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\PhieuThue\\FormThemDichVuPhongDaDung.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\PhieuThue\\FormThemDichVuPhongDaDung.cs",
+              "ToolTip": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\PhieuThue\\FormThemDichVuPhongDaDung.cs [Design]",
+              "RelativeToolTip": "HotelManagement\\PhieuThue\\FormThemDichVuPhongDaDung.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T03:02:10.902Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "FormSoDoPhong.Designer.cs",
+              "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\SoDoPhong\\FormSoDoPhong.Designer.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\SoDoPhong\\FormSoDoPhong.Designer.cs",
+              "ToolTip": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\SoDoPhong\\FormSoDoPhong.Designer.cs",
+              "RelativeToolTip": "HotelManagement\\SoDoPhong\\FormSoDoPhong.Designer.cs",
+              "ViewState": "AgIAAEIBAAAAAAAAAAAmwFQBAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T03:29:21.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "FormDanhSachPhong.Designer.cs",
+              "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\Phong\\FormDanhSachPhong.Designer.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\Phong\\FormDanhSachPhong.Designer.cs",
+              "ToolTip": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\Phong\\FormDanhSachPhong.Designer.cs",
+              "RelativeToolTip": "HotelManagement\\Phong\\FormDanhSachPhong.Designer.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAgwEoAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T03:34:50.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "FormDanhSachLoaiPhong.Designer.cs",
+              "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\LoaiPhong\\FormDanhSachLoaiPhong.Designer.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\LoaiPhong\\FormDanhSachLoaiPhong.Designer.cs",
+              "ToolTip": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\LoaiPhong\\FormDanhSachLoaiPhong.Designer.cs",
+              "RelativeToolTip": "HotelManagement\\LoaiPhong\\FormDanhSachLoaiPhong.Designer.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAuwC4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T03:41:17.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "FormMain.cs [Design]",
+              "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\FormMain.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\FormMain.cs",
+              "ToolTip": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\FormMain.cs [Design]",
+              "RelativeToolTip": "HotelManagement\\FormMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T01:33:57.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "FormDanhSachDichVu.cs",
+              "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\DichVu\\FormDanhSachDichVu.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\DichVu\\FormDanhSachDichVu.cs",
+              "ToolTip": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\DichVu\\FormDanhSachDichVu.cs",
+              "RelativeToolTip": "HotelManagement\\DichVu\\FormDanhSachDichVu.cs",
+              "ViewState": "AgIAANsAAAAAAAAAAAAiwAsBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T01:20:59.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "FormDanhSachDichVu.cs [Design]",
+              "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\DichVu\\FormDanhSachDichVu.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\DichVu\\FormDanhSachDichVu.cs",
+              "ToolTip": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\DichVu\\FormDanhSachDichVu.cs [Design]",
+              "RelativeToolTip": "HotelManagement\\DichVu\\FormDanhSachDichVu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T01:17:09.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "FormDanhSachDichVu.Designer.cs",
+              "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\DichVu\\FormDanhSachDichVu.Designer.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\DichVu\\FormDanhSachDichVu.Designer.cs",
+              "ToolTip": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\DichVu\\FormDanhSachDichVu.Designer.cs",
+              "RelativeToolTip": "HotelManagement\\DichVu\\FormDanhSachDichVu.Designer.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAiwE4AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T01:20:44.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "FormDanhSachNhanVien.cs",
+              "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\NhanVien\\FormDanhSachNhanVien.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\NhanVien\\FormDanhSachNhanVien.cs",
+              "ToolTip": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\NhanVien\\FormDanhSachNhanVien.cs",
+              "RelativeToolTip": "HotelManagement\\NhanVien\\FormDanhSachNhanVien.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAkwHAAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T01:58:51.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "FormDanhSachNhanVien.cs [Design]",
+              "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\NhanVien\\FormDanhSachNhanVien.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\NhanVien\\FormDanhSachNhanVien.cs",
+              "ToolTip": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\NhanVien\\FormDanhSachNhanVien.cs [Design]",
+              "RelativeToolTip": "HotelManagement\\NhanVien\\FormDanhSachNhanVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T01:56:44.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "FormDanhSachNhanVien.Designer.cs",
+              "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\NhanVien\\FormDanhSachNhanVien.Designer.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\NhanVien\\FormDanhSachNhanVien.Designer.cs",
+              "ToolTip": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\NhanVien\\FormDanhSachNhanVien.Designer.cs",
+              "RelativeToolTip": "HotelManagement\\NhanVien\\FormDanhSachNhanVien.Designer.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAiwE4AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T01:58:32.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "FormDanhSachKhachHang.cs",
+              "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\KhachHang\\FormDanhSachKhachHang.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\KhachHang\\FormDanhSachKhachHang.cs",
+              "ToolTip": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\KhachHang\\FormDanhSachKhachHang.cs",
+              "RelativeToolTip": "HotelManagement\\KhachHang\\FormDanhSachKhachHang.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAkwGwAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T01:51:30.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "FormDanhSachKhachHang.cs [Design]",
+              "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\KhachHang\\FormDanhSachKhachHang.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\KhachHang\\FormDanhSachKhachHang.cs",
+              "ToolTip": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\KhachHang\\FormDanhSachKhachHang.cs [Design]",
+              "RelativeToolTip": "HotelManagement\\KhachHang\\FormDanhSachKhachHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T01:47:54.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "FormDanhSachKhachHang.Designer.cs",
+              "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\KhachHang\\FormDanhSachKhachHang.Designer.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\KhachHang\\FormDanhSachKhachHang.Designer.cs",
+              "ToolTip": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\KhachHang\\FormDanhSachKhachHang.Designer.cs",
+              "RelativeToolTip": "HotelManagement\\KhachHang\\FormDanhSachKhachHang.Designer.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAiwEoAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T01:51:17.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "FormDanhSachTienNghi.cs",
+              "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\TienNghi\\FormDanhSachTienNghi.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\TienNghi\\FormDanhSachTienNghi.cs",
+              "ToolTip": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\TienNghi\\FormDanhSachTienNghi.cs",
+              "RelativeToolTip": "HotelManagement\\TienNghi\\FormDanhSachTienNghi.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAkwFoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T01:37:48.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "FormDanhSachTienNghi.cs [Design]",
+              "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\TienNghi\\FormDanhSachTienNghi.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\TienNghi\\FormDanhSachTienNghi.cs",
+              "ToolTip": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\TienNghi\\FormDanhSachTienNghi.cs [Design]",
+              "RelativeToolTip": "HotelManagement\\TienNghi\\FormDanhSachTienNghi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T01:34:49.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "FormDanhSachTienNghi.Designer.cs",
+              "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\TienNghi\\FormDanhSachTienNghi.Designer.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\TienNghi\\FormDanhSachTienNghi.Designer.cs",
+              "ToolTip": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\TienNghi\\FormDanhSachTienNghi.Designer.cs",
+              "RelativeToolTip": "HotelManagement\\TienNghi\\FormDanhSachTienNghi.Designer.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAgwEsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T01:37:31.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "FormSoDoPhong.cs",
+              "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\SoDoPhong\\FormSoDoPhong.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\SoDoPhong\\FormSoDoPhong.cs",
+              "ToolTip": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\SoDoPhong\\FormSoDoPhong.cs",
+              "RelativeToolTip": "HotelManagement\\SoDoPhong\\FormSoDoPhong.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAiwE0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T03:29:59.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "FormSoDoPhong.cs [Design]",
+              "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\SoDoPhong\\FormSoDoPhong.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\SoDoPhong\\FormSoDoPhong.cs",
+              "ToolTip": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\SoDoPhong\\FormSoDoPhong.cs [Design]",
+              "RelativeToolTip": "HotelManagement\\SoDoPhong\\FormSoDoPhong.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T01:33:57.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "FormSoDoPhong.cs [Design]",
+              "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\SoDoPhong\\FormSoDoPhong.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\SoDoPhong\\FormSoDoPhong.cs",
+              "ToolTip": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\SoDoPhong\\FormSoDoPhong.cs [Design]",
+              "RelativeToolTip": "HotelManagement\\SoDoPhong\\FormSoDoPhong.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T03:29:11.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "FormDatPhong.cs",
+              "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\SoDoPhong\\FormDatPhong.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\SoDoPhong\\FormDatPhong.cs",
+              "ToolTip": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\SoDoPhong\\FormDatPhong.cs",
+              "RelativeToolTip": "HotelManagement\\SoDoPhong\\FormDatPhong.cs",
+              "ViewState": "AgIAAPcBAAAAAAAAAAAiwBICAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T02:19:50.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "FormDatPhong.cs [Design]",
+              "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\SoDoPhong\\FormDatPhong.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\SoDoPhong\\FormDatPhong.cs",
+              "ToolTip": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\SoDoPhong\\FormDatPhong.cs [Design]",
+              "RelativeToolTip": "HotelManagement\\SoDoPhong\\FormDatPhong.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T02:19:23.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "FormDatPhong.Designer.cs",
+              "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\SoDoPhong\\FormDatPhong.Designer.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\SoDoPhong\\FormDatPhong.Designer.cs",
+              "ToolTip": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\SoDoPhong\\FormDatPhong.Designer.cs",
+              "RelativeToolTip": "HotelManagement\\SoDoPhong\\FormDatPhong.Designer.cs",
+              "ViewState": "AgIAAKQBAAAAAAAAAAA4wL8BAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T02:19:26.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "FormDanhSachChiTietTienNghi.cs",
+              "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\ChiTietTienNghi\\FormDanhSachChiTietTienNghi.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\ChiTietTienNghi\\FormDanhSachChiTietTienNghi.cs",
+              "ToolTip": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\ChiTietTienNghi\\FormDanhSachChiTietTienNghi.cs",
+              "RelativeToolTip": "HotelManagement\\ChiTietTienNghi\\FormDanhSachChiTietTienNghi.cs",
+              "ViewState": "AgIAALYAAAAAAAAAAAAiwNEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T02:11:52.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "FormDanhSachChiTietTienNghi.Designer.cs",
+              "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\ChiTietTienNghi\\FormDanhSachChiTietTienNghi.Designer.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\ChiTietTienNghi\\FormDanhSachChiTietTienNghi.Designer.cs",
+              "ToolTip": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\ChiTietTienNghi\\FormDanhSachChiTietTienNghi.Designer.cs",
+              "RelativeToolTip": "HotelManagement\\ChiTietTienNghi\\FormDanhSachChiTietTienNghi.Designer.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAiwHMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T02:11:39.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "FormDanhSachLoaiPhong.cs [Design]",
+              "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\LoaiPhong\\FormDanhSachLoaiPhong.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\LoaiPhong\\FormDanhSachLoaiPhong.cs",
+              "ToolTip": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\LoaiPhong\\FormDanhSachLoaiPhong.cs [Design]",
+              "RelativeToolTip": "HotelManagement\\LoaiPhong\\FormDanhSachLoaiPhong.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T01:08:42.414Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "FormDanhSachLoaiPhong.cs",
+              "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\LoaiPhong\\FormDanhSachLoaiPhong.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\LoaiPhong\\FormDanhSachLoaiPhong.cs",
+              "ToolTip": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\LoaiPhong\\FormDanhSachLoaiPhong.cs",
+              "RelativeToolTip": "HotelManagement\\LoaiPhong\\FormDanhSachLoaiPhong.cs",
+              "ViewState": "AgIAAL4AAAAAAAAAAAAiwMsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T03:41:31.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "FormSuaChiTietTienNghi.cs",
+              "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\ChiTietTienNghi\\FormSuaChiTietTienNghi.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\ChiTietTienNghi\\FormSuaChiTietTienNghi.cs",
+              "ToolTip": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\ChiTietTienNghi\\FormSuaChiTietTienNghi.cs",
+              "RelativeToolTip": "HotelManagement\\ChiTietTienNghi\\FormSuaChiTietTienNghi.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAiwHAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T02:11:00.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "FormSuaChiTietTienNghi.Designer.cs",
+              "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\ChiTietTienNghi\\FormSuaChiTietTienNghi.Designer.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\ChiTietTienNghi\\FormSuaChiTietTienNghi.Designer.cs",
+              "ToolTip": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\ChiTietTienNghi\\FormSuaChiTietTienNghi.Designer.cs",
+              "RelativeToolTip": "HotelManagement\\ChiTietTienNghi\\FormSuaChiTietTienNghi.Designer.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAiwIgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T02:10:46.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "FormDanhSachChiTietTienNghi.cs [Design]",
+              "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\ChiTietTienNghi\\FormDanhSachChiTietTienNghi.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\ChiTietTienNghi\\FormDanhSachChiTietTienNghi.cs",
+              "ToolTip": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\ChiTietTienNghi\\FormDanhSachChiTietTienNghi.cs [Design]",
+              "RelativeToolTip": "HotelManagement\\ChiTietTienNghi\\FormDanhSachChiTietTienNghi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T02:06:52.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "FormThemChiTietTienNghi.cs",
+              "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\ChiTietTienNghi\\FormThemChiTietTienNghi.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\ChiTietTienNghi\\FormThemChiTietTienNghi.cs",
+              "ToolTip": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\ChiTietTienNghi\\FormThemChiTietTienNghi.cs",
+              "RelativeToolTip": "HotelManagement\\ChiTietTienNghi\\FormThemChiTietTienNghi.cs",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAiwKgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T02:10:23.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "FormThemChiTietTienNghi.Designer.cs",
+              "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\ChiTietTienNghi\\FormThemChiTietTienNghi.Designer.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\ChiTietTienNghi\\FormThemChiTietTienNghi.Designer.cs",
+              "ToolTip": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\ChiTietTienNghi\\FormThemChiTietTienNghi.Designer.cs",
+              "RelativeToolTip": "HotelManagement\\ChiTietTienNghi\\FormThemChiTietTienNghi.Designer.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAiwIcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T02:10:08.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "FormSuaChiTietTienNghi.cs [Design]",
+              "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\ChiTietTienNghi\\FormSuaChiTietTienNghi.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\ChiTietTienNghi\\FormSuaChiTietTienNghi.cs",
+              "ToolTip": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\ChiTietTienNghi\\FormSuaChiTietTienNghi.cs [Design]",
+              "RelativeToolTip": "HotelManagement\\ChiTietTienNghi\\FormSuaChiTietTienNghi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T02:07:30.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "FormThemChiTietTienNghi.cs [Design]",
+              "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\ChiTietTienNghi\\FormThemChiTietTienNghi.cs",
+              "RelativeDocumentMoniker": "HotelManagement\\ChiTietTienNghi\\FormThemChiTietTienNghi.cs",
+              "ToolTip": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\ChiTietTienNghi\\FormThemChiTietTienNghi.cs [Design]",
+              "RelativeToolTip": "HotelManagement\\ChiTietTienNghi\\FormThemChiTietTienNghi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T02:07:11.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
               "Title": "FormSuaNhanVien.cs",
               "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\NhanVien\\FormSuaNhanVien.cs",
               "RelativeDocumentMoniker": "HotelManagement\\NhanVien\\FormSuaNhanVien.cs",
@@ -841,7 +1386,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 71,
               "Title": "FormSuaNhanVien.Designer.cs",
               "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\NhanVien\\FormSuaNhanVien.Designer.cs",
               "RelativeDocumentMoniker": "HotelManagement\\NhanVien\\FormSuaNhanVien.Designer.cs",
@@ -849,12 +1394,11 @@
               "RelativeToolTip": "HotelManagement\\NhanVien\\FormSuaNhanVien.Designer.cs",
               "ViewState": "AgIAAEYBAAAAAAAAAAAiwGEBAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-02T01:57:56.623Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-02T01:57:56.623Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 72,
               "Title": "FormThemNhanVien.cs",
               "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\NhanVien\\FormThemNhanVien.cs",
               "RelativeDocumentMoniker": "HotelManagement\\NhanVien\\FormThemNhanVien.cs",
@@ -867,7 +1411,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 74,
               "Title": "FormThemNhanVien.Designer.cs",
               "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\NhanVien\\FormThemNhanVien.Designer.cs",
               "RelativeDocumentMoniker": "HotelManagement\\NhanVien\\FormThemNhanVien.Designer.cs",
@@ -875,36 +1419,33 @@
               "RelativeToolTip": "HotelManagement\\NhanVien\\FormThemNhanVien.Designer.cs",
               "ViewState": "AgIAAEUBAAAAAAAAAAAiwGABAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-02T01:57:18.501Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-02T01:57:18.501Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 70,
               "Title": "FormSuaNhanVien.cs [Design]",
               "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\NhanVien\\FormSuaNhanVien.cs",
               "RelativeDocumentMoniker": "HotelManagement\\NhanVien\\FormSuaNhanVien.cs",
               "ToolTip": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\NhanVien\\FormSuaNhanVien.cs [Design]",
               "RelativeToolTip": "HotelManagement\\NhanVien\\FormSuaNhanVien.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-02T01:57:09.999Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-11-02T01:57:09.999Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 73,
               "Title": "FormThemNhanVien.cs [Design]",
               "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\NhanVien\\FormThemNhanVien.cs",
               "RelativeDocumentMoniker": "HotelManagement\\NhanVien\\FormThemNhanVien.cs",
               "ToolTip": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\NhanVien\\FormThemNhanVien.cs [Design]",
               "RelativeToolTip": "HotelManagement\\NhanVien\\FormThemNhanVien.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-02T01:56:55.383Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-11-02T01:56:55.383Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 76,
               "Title": "FormSuaKhachHang.cs",
               "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\KhachHang\\FormSuaKhachHang.cs",
               "RelativeDocumentMoniker": "HotelManagement\\KhachHang\\FormSuaKhachHang.cs",
@@ -917,7 +1458,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 78,
               "Title": "FormSuaKhachHang.Designer.cs",
               "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\KhachHang\\FormSuaKhachHang.Designer.cs",
               "RelativeDocumentMoniker": "HotelManagement\\KhachHang\\FormSuaKhachHang.Designer.cs",
@@ -925,12 +1466,11 @@
               "RelativeToolTip": "HotelManagement\\KhachHang\\FormSuaKhachHang.Designer.cs",
               "ViewState": "AgIAAOAAAAAAAAAAAAAiwPsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-02T01:50:10.553Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-02T01:50:10.553Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 79,
               "Title": "FormThemKhachHang.cs",
               "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\KhachHang\\FormThemKhachHang.cs",
               "RelativeDocumentMoniker": "HotelManagement\\KhachHang\\FormThemKhachHang.cs",
@@ -943,7 +1483,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 81,
               "Title": "FormThemKhachHang.Designer.cs",
               "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\KhachHang\\FormThemKhachHang.Designer.cs",
               "RelativeDocumentMoniker": "HotelManagement\\KhachHang\\FormThemKhachHang.Designer.cs",
@@ -951,36 +1491,33 @@
               "RelativeToolTip": "HotelManagement\\KhachHang\\FormThemKhachHang.Designer.cs",
               "ViewState": "AgIAAMoAAAAAAAAAAAAiwPoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-02T01:48:42.501Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-02T01:48:42.501Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 77,
               "Title": "FormSuaKhachHang.cs [Design]",
               "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\KhachHang\\FormSuaKhachHang.cs",
               "RelativeDocumentMoniker": "HotelManagement\\KhachHang\\FormSuaKhachHang.cs",
               "ToolTip": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\KhachHang\\FormSuaKhachHang.cs [Design]",
               "RelativeToolTip": "HotelManagement\\KhachHang\\FormSuaKhachHang.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-02T01:48:32.553Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-11-02T01:48:32.553Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 80,
               "Title": "FormThemKhachHang.cs [Design]",
               "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\KhachHang\\FormThemKhachHang.cs",
               "RelativeDocumentMoniker": "HotelManagement\\KhachHang\\FormThemKhachHang.cs",
               "ToolTip": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\KhachHang\\FormThemKhachHang.cs [Design]",
               "RelativeToolTip": "HotelManagement\\KhachHang\\FormThemKhachHang.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-02T01:48:14.937Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-11-02T01:48:14.937Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 82,
               "Title": "FormSuaTienNghi.cs",
               "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\TienNghi\\FormSuaTienNghi.cs",
               "RelativeDocumentMoniker": "HotelManagement\\TienNghi\\FormSuaTienNghi.cs",
@@ -993,7 +1530,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 84,
               "Title": "FormSuaTienNghi.Designer.cs",
               "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\TienNghi\\FormSuaTienNghi.Designer.cs",
               "RelativeDocumentMoniker": "HotelManagement\\TienNghi\\FormSuaTienNghi.Designer.cs",
@@ -1001,12 +1538,11 @@
               "RelativeToolTip": "HotelManagement\\TienNghi\\FormSuaTienNghi.Designer.cs",
               "ViewState": "AgIAAFMAAAAAAAAAAAAiwG4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-02T01:36:36.855Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-02T01:36:36.855Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 85,
               "Title": "FormThemTienNghi.cs",
               "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\TienNghi\\FormThemTienNghi.cs",
               "RelativeDocumentMoniker": "HotelManagement\\TienNghi\\FormThemTienNghi.cs",
@@ -1019,7 +1555,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 87,
               "Title": "FormThemTienNghi.Designer.cs",
               "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\TienNghi\\FormThemTienNghi.Designer.cs",
               "RelativeDocumentMoniker": "HotelManagement\\TienNghi\\FormThemTienNghi.Designer.cs",
@@ -1027,36 +1563,33 @@
               "RelativeToolTip": "HotelManagement\\TienNghi\\FormThemTienNghi.Designer.cs",
               "ViewState": "AgIAAGsAAAAAAAAAAAAiwIYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-02T01:35:39.027Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-02T01:35:39.027Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 83,
               "Title": "FormSuaTienNghi.cs [Design]",
               "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\TienNghi\\FormSuaTienNghi.cs",
               "RelativeDocumentMoniker": "HotelManagement\\TienNghi\\FormSuaTienNghi.cs",
               "ToolTip": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\TienNghi\\FormSuaTienNghi.cs [Design]",
               "RelativeToolTip": "HotelManagement\\TienNghi\\FormSuaTienNghi.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-02T01:35:30.286Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-11-02T01:35:30.286Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 86,
               "Title": "FormThemTienNghi.cs [Design]",
               "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\TienNghi\\FormThemTienNghi.cs",
               "RelativeDocumentMoniker": "HotelManagement\\TienNghi\\FormThemTienNghi.cs",
               "ToolTip": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\TienNghi\\FormThemTienNghi.cs [Design]",
               "RelativeToolTip": "HotelManagement\\TienNghi\\FormThemTienNghi.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-02T01:35:11.408Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-11-02T01:35:11.408Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 88,
               "Title": "FormSuaDichVu.cs",
               "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\DichVu\\FormSuaDichVu.cs",
               "RelativeDocumentMoniker": "HotelManagement\\DichVu\\FormSuaDichVu.cs",
@@ -1069,7 +1602,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 90,
               "Title": "FormSuaDichVu.Designer.cs",
               "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\DichVu\\FormSuaDichVu.Designer.cs",
               "RelativeDocumentMoniker": "HotelManagement\\DichVu\\FormSuaDichVu.Designer.cs",
@@ -1077,12 +1610,11 @@
               "RelativeToolTip": "HotelManagement\\DichVu\\FormSuaDichVu.Designer.cs",
               "ViewState": "AgIAAK4AAAAAAAAAAAAiwMkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-02T01:19:57.975Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-02T01:19:57.975Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 91,
               "Title": "FormThemDichVu.cs",
               "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\DichVu\\FormThemDichVu.cs",
               "RelativeDocumentMoniker": "HotelManagement\\DichVu\\FormThemDichVu.cs",
@@ -1095,7 +1627,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 93,
               "Title": "FormThemDichVu.Designer.cs",
               "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\DichVu\\FormThemDichVu.Designer.cs",
               "RelativeDocumentMoniker": "HotelManagement\\DichVu\\FormThemDichVu.Designer.cs",
@@ -1103,36 +1635,33 @@
               "RelativeToolTip": "HotelManagement\\DichVu\\FormThemDichVu.Designer.cs",
               "ViewState": "AgIAAMcAAAAAAAAAAAAiwOIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-02T01:18:01.257Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-02T01:18:01.257Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 89,
               "Title": "FormSuaDichVu.cs [Design]",
               "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\DichVu\\FormSuaDichVu.cs",
               "RelativeDocumentMoniker": "HotelManagement\\DichVu\\FormSuaDichVu.cs",
               "ToolTip": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\DichVu\\FormSuaDichVu.cs [Design]",
               "RelativeToolTip": "HotelManagement\\DichVu\\FormSuaDichVu.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-02T01:17:40.945Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-11-02T01:17:40.945Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 92,
               "Title": "FormThemDichVu.cs [Design]",
               "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\DichVu\\FormThemDichVu.cs",
               "RelativeDocumentMoniker": "HotelManagement\\DichVu\\FormThemDichVu.cs",
               "ToolTip": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\DichVu\\FormThemDichVu.cs [Design]",
               "RelativeToolTip": "HotelManagement\\DichVu\\FormThemDichVu.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-02T01:17:26.476Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-11-02T01:17:26.476Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 96,
               "Title": "FormDanhSachLoaiPhong.cs [Design]",
               "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\LoaiPhong\\FormDanhSachLoaiPhong.cs",
               "RelativeDocumentMoniker": "HotelManagement\\LoaiPhong\\FormDanhSachLoaiPhong.cs",
@@ -1143,7 +1672,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 95,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\Program.cs",
               "RelativeDocumentMoniker": "HotelManagement\\Program.cs",
@@ -1151,12 +1680,11 @@
               "RelativeToolTip": "HotelManagement\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-26T03:18:29.899Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-26T03:18:29.899Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 94,
               "Title": "FormDangNhap.Designer.cs",
               "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\DangNhap\\FormDangNhap.Designer.cs",
               "RelativeDocumentMoniker": "HotelManagement\\DangNhap\\FormDangNhap.Designer.cs",
@@ -1164,12 +1692,11 @@
               "RelativeToolTip": "HotelManagement\\DangNhap\\FormDangNhap.Designer.cs",
               "ViewState": "AgIAAFgAAAAAAAAAAAApwGQAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-26T03:13:59.344Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-26T03:13:59.344Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 71,
+              "DocumentIndex": 105,
               "Title": "FormThemLoaiPhong.Designer.cs",
               "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\LoaiPhong\\FormThemLoaiPhong.Designer.cs",
               "RelativeDocumentMoniker": "HotelManagement\\LoaiPhong\\FormThemLoaiPhong.Designer.cs",
@@ -1177,12 +1704,11 @@
               "RelativeToolTip": "HotelManagement\\LoaiPhong\\FormThemLoaiPhong.Designer.cs",
               "ViewState": "AgIAANAAAAAAAAAAAAAYwOgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-26T03:44:25.883Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-26T03:44:25.883Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 72,
+              "DocumentIndex": 106,
               "Title": "FormThemLoaiPhong.cs",
               "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\LoaiPhong\\FormThemLoaiPhong.cs",
               "RelativeDocumentMoniker": "HotelManagement\\LoaiPhong\\FormThemLoaiPhong.cs",
@@ -1195,7 +1721,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 63,
+              "DocumentIndex": 97,
               "Title": "FormThemLoaiPhong.cs [Design]",
               "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\LoaiPhong\\FormThemLoaiPhong.cs",
               "RelativeDocumentMoniker": "HotelManagement\\LoaiPhong\\FormThemLoaiPhong.cs",
@@ -1206,7 +1732,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 73,
+              "DocumentIndex": 107,
               "Title": "FormSuaLoaiPhong.Designer.cs",
               "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\LoaiPhong\\FormSuaLoaiPhong.Designer.cs",
               "RelativeDocumentMoniker": "HotelManagement\\LoaiPhong\\FormSuaLoaiPhong.Designer.cs",
@@ -1214,12 +1740,11 @@
               "RelativeToolTip": "HotelManagement\\LoaiPhong\\FormSuaLoaiPhong.Designer.cs",
               "ViewState": "AgIAAI0AAAAAAAAAAAAYwNsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-26T03:40:49.594Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-26T03:40:49.594Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 74,
+              "DocumentIndex": 108,
               "Title": "FormSuaLoaiPhong.cs",
               "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\LoaiPhong\\FormSuaLoaiPhong.cs",
               "RelativeDocumentMoniker": "HotelManagement\\LoaiPhong\\FormSuaLoaiPhong.cs",
@@ -1232,7 +1757,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 75,
+              "DocumentIndex": 109,
               "Title": "FormChiTietLoaiPhong.cs",
               "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\LoaiPhong\\FormChiTietLoaiPhong.cs",
               "RelativeDocumentMoniker": "HotelManagement\\LoaiPhong\\FormChiTietLoaiPhong.cs",
@@ -1245,7 +1770,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 76,
+              "DocumentIndex": 110,
               "Title": "FormChiTietLoaiPhong.Designer.cs",
               "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\LoaiPhong\\FormChiTietLoaiPhong.Designer.cs",
               "RelativeDocumentMoniker": "HotelManagement\\LoaiPhong\\FormChiTietLoaiPhong.Designer.cs",
@@ -1253,12 +1778,11 @@
               "RelativeToolTip": "HotelManagement\\LoaiPhong\\FormChiTietLoaiPhong.Designer.cs",
               "ViewState": "AgIAADUAAAAAAAAAAAAYwFAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-26T03:39:52.631Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-26T03:39:52.631Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 64,
+              "DocumentIndex": 98,
               "Title": "FormSuaLoaiPhong.cs [Design]",
               "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\LoaiPhong\\FormSuaLoaiPhong.cs",
               "RelativeDocumentMoniker": "HotelManagement\\LoaiPhong\\FormSuaLoaiPhong.cs",
@@ -1269,7 +1793,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 65,
+              "DocumentIndex": 99,
               "Title": "FormChiTietLoaiPhong.cs [Design]",
               "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\LoaiPhong\\FormChiTietLoaiPhong.cs",
               "RelativeDocumentMoniker": "HotelManagement\\LoaiPhong\\FormChiTietLoaiPhong.cs",
@@ -1280,7 +1804,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 77,
+              "DocumentIndex": 111,
               "Title": "FormDanhSachPhong.cs",
               "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\Phong\\FormDanhSachPhong.cs",
               "RelativeDocumentMoniker": "HotelManagement\\Phong\\FormDanhSachPhong.cs",
@@ -1293,7 +1817,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 78,
+              "DocumentIndex": 112,
               "Title": "FormSuaPhong.Designer.cs",
               "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\Phong\\FormSuaPhong.Designer.cs",
               "RelativeDocumentMoniker": "HotelManagement\\Phong\\FormSuaPhong.Designer.cs",
@@ -1301,12 +1825,11 @@
               "RelativeToolTip": "HotelManagement\\Phong\\FormSuaPhong.Designer.cs",
               "ViewState": "AgIAAKAAAAAAAAAAAAAYwMoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-26T03:34:20.905Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-26T03:34:20.905Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 79,
+              "DocumentIndex": 113,
               "Title": "FormSuaPhong.cs",
               "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\Phong\\FormSuaPhong.cs",
               "RelativeDocumentMoniker": "HotelManagement\\Phong\\FormSuaPhong.cs",
@@ -1319,7 +1842,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 66,
+              "DocumentIndex": 100,
               "Title": "FormDanhSachPhong.cs [Design]",
               "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\Phong\\FormDanhSachPhong.cs",
               "RelativeDocumentMoniker": "HotelManagement\\Phong\\FormDanhSachPhong.cs",
@@ -1330,7 +1853,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 80,
+              "DocumentIndex": 114,
               "Title": "FormThemPhong.cs",
               "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\Phong\\FormThemPhong.cs",
               "RelativeDocumentMoniker": "HotelManagement\\Phong\\FormThemPhong.cs",
@@ -1343,7 +1866,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 81,
+              "DocumentIndex": 115,
               "Title": "FormThemPhong.Designer.cs",
               "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\Phong\\FormThemPhong.Designer.cs",
               "RelativeDocumentMoniker": "HotelManagement\\Phong\\FormThemPhong.Designer.cs",
@@ -1351,12 +1874,11 @@
               "RelativeToolTip": "HotelManagement\\Phong\\FormThemPhong.Designer.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAzwBUAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-26T03:33:15.614Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-26T03:33:15.614Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 67,
+              "DocumentIndex": 101,
               "Title": "FormSuaPhong.cs [Design]",
               "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\Phong\\FormSuaPhong.cs",
               "RelativeDocumentMoniker": "HotelManagement\\Phong\\FormSuaPhong.cs",
@@ -1367,7 +1889,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 68,
+              "DocumentIndex": 102,
               "Title": "FormThemPhong.cs [Design]",
               "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\Phong\\FormThemPhong.cs",
               "RelativeDocumentMoniker": "HotelManagement\\Phong\\FormThemPhong.cs",
@@ -1378,7 +1900,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 82,
+              "DocumentIndex": 116,
               "Title": "FormTrangChu.Designer.cs",
               "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\FormTrangChu.Designer.cs",
               "RelativeDocumentMoniker": "HotelManagement\\FormTrangChu.Designer.cs",
@@ -1390,7 +1912,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 69,
+              "DocumentIndex": 103,
               "Title": "FormTrangChu.cs [Design]",
               "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\FormTrangChu.cs",
               "RelativeDocumentMoniker": "HotelManagement\\FormTrangChu.cs",
@@ -1401,7 +1923,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 83,
+              "DocumentIndex": 117,
               "Title": "FormMain.Designer.cs",
               "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\FormMain.Designer.cs",
               "RelativeDocumentMoniker": "HotelManagement\\FormMain.Designer.cs",
@@ -1409,12 +1931,11 @@
               "RelativeToolTip": "HotelManagement\\FormMain.Designer.cs",
               "ViewState": "AgIAAIwBAAAAAAAAAAA8wJABAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-26T03:22:43.794Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-26T03:22:43.794Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 75,
               "Title": "FormMain.cs [Design]",
               "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\FormMain.cs",
               "RelativeDocumentMoniker": "HotelManagement\\FormMain.cs",
@@ -1425,7 +1946,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 84,
+              "DocumentIndex": 118,
               "Title": "FormDangNhap.cs",
               "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\DangNhap\\FormDangNhap.cs",
               "RelativeDocumentMoniker": "HotelManagement\\DangNhap\\FormDangNhap.cs",
@@ -1438,7 +1959,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 70,
+              "DocumentIndex": 104,
               "Title": "FormDangNhap.cs [Design]",
               "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\DangNhap\\FormDangNhap.cs",
               "RelativeDocumentMoniker": "HotelManagement\\DangNhap\\FormDangNhap.cs",
@@ -1449,7 +1970,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 85,
+              "DocumentIndex": 119,
               "Title": "Hotelmanagementcontext.custom.cs",
               "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\Models\\Hotelmanagementcontext.custom.cs",
               "RelativeDocumentMoniker": "HotelManagement\\Models\\Hotelmanagementcontext.custom.cs",
@@ -1461,7 +1982,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 86,
+              "DocumentIndex": 120,
               "Title": "HotelManagementContext.cs",
               "DocumentMoniker": "D:\\CODEVisualStudio\\HotelManagement\\HotelManagement\\Models\\HotelManagementContext.cs",
               "RelativeDocumentMoniker": "HotelManagement\\Models\\HotelManagementContext.cs",

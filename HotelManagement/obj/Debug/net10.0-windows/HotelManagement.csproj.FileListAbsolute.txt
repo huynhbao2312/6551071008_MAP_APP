@@ -228,3 +228,14 @@ D:\CODEVisualStudio\HotelManagement\HotelManagement\obj\Debug\net10.0-windows\Ho
 D:\CODEVisualStudio\HotelManagement\HotelManagement\obj\Debug\net10.0-windows\HotelManagement.ChiTietTienNghi.FormSuaChiTietTienNghi.resources
 D:\CODEVisualStudio\HotelManagement\HotelManagement\obj\Debug\net10.0-windows\HotelManagement.ChiTietTienNghi.FormThemChiTietTienNghi.resources
 D:\CODEVisualStudio\HotelManagement\HotelManagement\obj\Debug\net10.0-windows\HotelManagement.SoDoPhong.FormDatPhong.resources
+D:\CODEVisualStudio\HotelManagement\HotelManagement\obj\Debug\net10.0-windows\HotelManagement.PhieuThue.FormChiTietPhieuThue.resources
+D:\CODEVisualStudio\HotelManagement\HotelManagement\obj\Debug\net10.0-windows\HotelManagement.PhieuThue.FormDanhSachDichVuPhongDaDung.resources
+D:\CODEVisualStudio\HotelManagement\HotelManagement\obj\Debug\net10.0-windows\HotelManagement.PhieuThue.FormDanhSachPhieuThue.resources
+D:\CODEVisualStudio\HotelManagement\HotelManagement\obj\Debug\net10.0-windows\HotelManagement.PhieuThue.FormSuaChiTietPhieuThue.resources
+D:\CODEVisualStudio\HotelManagement\HotelManagement\obj\Debug\net10.0-windows\HotelManagement.PhieuThue.FormThemDichVuPhongDaDung.resources
+D:\CODEVisualStudio\HotelManagement\HotelManagement\obj\Debug\net10.0-windows\HotelManagement.HoaDon.FormDanhSachHoaDon.resources
+D:\CODEVisualStudio\HotelManagement\HotelManagement\obj\Debug\net10.0-windows\HotelManagement.HoaDon.FormHoaDon.resources
+D:\CODEVisualStudio\HotelManagement\HotelManagement\obj\Debug\net10.0-windows\HotelManagement.TaiKhoan.FormDanhSachTaiKhoan.resources
+D:\CODEVisualStudio\HotelManagement\HotelManagement\obj\Debug\net10.0-windows\HotelManagement.TaiKhoan.FormSuaTaiKhoan.resources
+D:\CODEVisualStudio\HotelManagement\HotelManagement\obj\Debug\net10.0-windows\HotelManagement.TaiKhoan.FormThemTaiKhoan.resources
+D:\CODEVisualStudio\HotelManagement\HotelManagement\obj\Debug\net10.0-windows\HotelManagement.ThongKe.FormThongKe.resources
